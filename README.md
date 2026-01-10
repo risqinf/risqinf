@@ -83,17 +83,7 @@ Currently **open to work** for backend, infrastructure, systems, or reliability-
 
 ## GitHub Activity Overview
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=risqinf&theme=github_dark" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=risqinf&theme=github_dark" height="160" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=risqinf&theme=github_dark" height="160" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=risqinf&theme=github_dark" height="160" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=risqinf&theme=github_dark&utcOffset=7" height="160" />
+  <img src="https://metrics.lecoq.io/risqinf?template=classic&base=header,activity,community&base.repositories=0&plugin_languages=1&plugin_languages_sections=most-used&plugin_languages_details=percentage" alt="GitHub Metrics" />
 </p>
 
 ---
