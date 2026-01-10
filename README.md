@@ -83,7 +83,7 @@ Currently **open to work** for backend, infrastructure, systems, or reliability-
 
 ## GitHub Activity Overview
 <p align="center">
-  <img src="https://metrics.lecoq.io/risqinf?template=classic&base=header,activity,community&base.repositories=0&plugin_languages=1&plugin_languages_sections=most-used&plugin_languages_details=percentage" alt="GitHub Metrics" />
+  <img src="github-metrics.svg" />
 </p>
 
 ---
