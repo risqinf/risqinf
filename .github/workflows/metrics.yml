@@ -15,7 +15,8 @@ jobs:
       contents: write
     steps:
       - name: Generate GitHub Metrics
-        uses: lowlighter/metrics@latest
+        # GANTI baris di bawah ini dari lowlighter/metrics@latest
+        uses: gh-metrics/metrics@master 
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           filename: github-metrics.svg
